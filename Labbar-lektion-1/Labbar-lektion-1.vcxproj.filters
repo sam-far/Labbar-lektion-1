@@ -51,6 +51,21 @@
     <ClCompile Include="var6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="var7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="var8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="safeinput.h">

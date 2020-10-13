@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="if1.c" />
+    <ClCompile Include="if2.c" />
+    <ClCompile Include="if3.c" />
     <ClCompile Include="labb1-1.c" />
     <ClCompile Include="labb1-2.c" />
     <ClCompile Include="labb1-3.c" />
@@ -151,6 +154,8 @@
     <ClCompile Include="var4.c" />
     <ClCompile Include="var5.c" />
     <ClCompile Include="var6.c" />
+    <ClCompile Include="var7.c" />
+    <ClCompile Include="var8.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="safeinput.h" />

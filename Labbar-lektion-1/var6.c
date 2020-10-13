@@ -3,7 +3,7 @@
 #include <locale.h>
 #include "safeinput.h"
 
-int main()
+int var6()
 {
 	char* locale = setlocale(LC_ALL, "");
 
