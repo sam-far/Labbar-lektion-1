@@ -27,6 +27,12 @@
     <ClCompile Include="labb1-3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="labb1-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="labb1-5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="safeinput.h">

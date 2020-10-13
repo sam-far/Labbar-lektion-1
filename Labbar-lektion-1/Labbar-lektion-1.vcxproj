@@ -142,6 +142,8 @@
     <ClCompile Include="labb1-1.c" />
     <ClCompile Include="labb1-2.c" />
     <ClCompile Include="labb1-3.c" />
+    <ClCompile Include="labb1-4.c" />
+    <ClCompile Include="labb1-5.c" />
     <ClCompile Include="safeinput.c" />
   </ItemGroup>
   <ItemGroup>

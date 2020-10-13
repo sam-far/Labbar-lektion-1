@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "safeinput.h"
 
-int main()
+int l13()
 {
 	int val1;
 	long val2;
