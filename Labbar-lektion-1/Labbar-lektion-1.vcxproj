@@ -140,13 +140,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="if1.c" />
+    <ClCompile Include="if10.c" />
     <ClCompile Include="if2.c" />
     <ClCompile Include="if3.c" />
+    <ClCompile Include="if4.c" />
+    <ClCompile Include="if5.c" />
+    <ClCompile Include="if6.c" />
+    <ClCompile Include="if7.c" />
+    <ClCompile Include="if8.c" />
+    <ClCompile Include="if9.c" />
     <ClCompile Include="labb1-1.c" />
     <ClCompile Include="labb1-2.c" />
     <ClCompile Include="labb1-3.c" />
     <ClCompile Include="labb1-4.c" />
     <ClCompile Include="labb1-5.c" />
+    <ClCompile Include="loop1.c" />
+    <ClCompile Include="loop2.c" />
+    <ClCompile Include="loop3.c" />
+    <ClCompile Include="loop4.c" />
+    <ClCompile Include="loop5.c" />
     <ClCompile Include="safeinput.c" />
     <ClCompile Include="var1.c" />
     <ClCompile Include="var2.c" />

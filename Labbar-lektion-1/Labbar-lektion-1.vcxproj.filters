@@ -66,6 +66,42 @@
     <ClCompile Include="if3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loop1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loop2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loop3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loop4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loop5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="safeinput.h">
