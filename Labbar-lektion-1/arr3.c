@@ -4,18 +4,19 @@
 #include <string.h>
 #include "safeinput.h"
 
-int loop5()
+int arr3()
 {
 	char* locale = setlocale(LC_ALL, "");
 
-	int tal;
+	int arr[5] = {1,1,2,2,2};
 
-	GetInputInt("Mata in ett tal: ", &tal);
+	for (int i = 0; i < 5; i++)
+		if (arr[i] % 2 != 0)
+			arr[i] = 0;
 
-	for (int i = 1; i <= tal; i++)
-	{
-		printf("%d\n", i);
-	}
+	for (int i = 0; i < 5; i++)
+		printf("%d ", arr[i]);
+
 
 	return 0;
 }

@@ -139,6 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arr1.c" />
+    <ClCompile Include="arr2.c" />
+    <ClCompile Include="arr3.c" />
+    <ClCompile Include="arr4.c" />
+    <ClCompile Include="dt1.c" />
+    <ClCompile Include="dt2.c" />
+    <ClCompile Include="dt3.c" />
     <ClCompile Include="if1.c" />
     <ClCompile Include="if10.c" />
     <ClCompile Include="if2.c" />
@@ -160,6 +167,8 @@
     <ClCompile Include="loop4.c" />
     <ClCompile Include="loop5.c" />
     <ClCompile Include="safeinput.c" />
+    <ClCompile Include="str1.c" />
+    <ClCompile Include="str2.c" />
     <ClCompile Include="var1.c" />
     <ClCompile Include="var2.c" />
     <ClCompile Include="var3.c" />

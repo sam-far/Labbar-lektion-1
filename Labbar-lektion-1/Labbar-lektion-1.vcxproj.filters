@@ -102,6 +102,33 @@
     <ClCompile Include="loop5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arr1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arr2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arr3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arr4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="str1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="str2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dt1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dt2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dt3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="safeinput.h">
